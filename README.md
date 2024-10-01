@@ -12,3 +12,6 @@ Plotly Axis Layout guide: https://plotly.com/python/reference/layout/xaxis/
 
 Plotly Horizontal Bar Graph: https://plotly.com/javascript/horizontal-bar-charts/
 
+
+Deployed at: https://jwooll.github.io/belly-button-challenge/
+
